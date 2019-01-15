@@ -1,0 +1,106 @@
+{
+  "images": {
+    "title": {
+      "image": "minecraft:title.png",
+      "posX": -70,
+      "posY": 5,
+      "width": 140,
+      "height": 60,
+      "alignment": "center"
+    }
+  },
+  "buttons": {
+    "Website": {
+      "text": "Website",
+      "texture": "minecraft:rsz_topcircle.png",
+      "posX": -5,
+      "posY": -35,
+      "width": 11,
+      "height": 10,
+      "allignment": "center",
+      "action": {
+        "type": "openLink",
+        "link": "http://stargatemc.com"
+      }
+    },
+    "Connect": {
+      "text": "Connect (Testing Only)",
+      "texture": "minecraft:rsz_bottommid.png",
+      "posX": -5.5,
+      "posY": 140,
+      "width": 11,
+      "height": 11,
+      "allignment": "center",
+      "action": {
+        "type": "connectToServer",
+        "ip": "game.stargatemc.com"
+      }
+    },
+    "singleplayer": {
+      "text": "SinglePlayer",
+      "texture": "minecraft:rsz_lefttopcircle.png",
+      "posX": -66,
+      "posY": -14,
+      "width": 11,
+      "height": 10,
+      "action": {
+        "type": "openGui",
+        "gui": "singleplayer"
+      }
+    },
+    "Discord": {
+      "text": "Discord",
+      "texture": "minecraft:rsz_topright.png",
+      "posX": 62,
+      "posY": -14,
+      "width": 10,
+      "height": 11,
+      "action": {
+        "type": "openLink",
+        "link": "https://discord.gg/FV76SKW"
+      }
+    },
+    "Exit": {
+      "text": "Exit",
+      "texture": "minecraft:rsz_rightmidbottom.png",
+      "posX": 62,
+      "posY": 125,
+      "width": 11,
+      "height": 12,
+      "action": {
+        "type": "quit"
+      }
+    },
+    "Options": {
+      "text": "Options",
+      "texture": "minecraft:rsz_bottomleft.png",
+      "posX": -66,
+      "posY": 125,
+      "width": 11,
+      "height": 11,
+      "action": {
+        "type": "openGui",
+        "gui": "options"
+      }
+    }
+  },
+  "texts": {
+    
+  },
+  "other": {
+    "background": {
+      "image": "",
+      "slideshow": {
+        "images": [
+          "minecraft:00.png",
+          "minecraft:01.png",
+          "minecraft:02.png",
+          "minecraft:03.png"
+        ],
+        "displayDuration": 1,
+        "fadeDuration": 20
+      },
+      "mode": "stretch"
+    }
+  }
+}

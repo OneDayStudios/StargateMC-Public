@@ -1,0 +1,1 @@
+{"configuration":{"dimensionSaveIntervalMs":15000,"researchedSaveIntervalMs":15000,"locationSaveIntervalMs":10000,"traitSaveIntervalMs":15000,"debugMode":false,"playerSaveIntervalMs":15000,"structureGenBlocksPerTick":100,"locationRepairIntervalMs":15000,"templateSaveIntervalMs":15000,"worldUnloadInactiveMs":120000,"worldPlayerActivityCheckIntervalMs":60000}}
