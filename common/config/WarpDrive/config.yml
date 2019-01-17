@@ -551,10 +551,10 @@ ship {
     I:teleport_energy_per_entity=1000000
 
     # Maximum ship mass (in blocks) to jump on a planet
-    I:volume_max_on_planet_surface=8000
+    I:volume_max_on_planet_surface=500
 
     # Minimum ship mass (in blocks) to enter or exit hyperspace without a jumpgate
-    I:volume_min_for_hyperspace=3000
+    I:volume_min_for_hyperspace=400
 
     # Ship volume won't be refreshed unless it's older than that many seconds
     I:volume_scan_age_tolerance=120
@@ -762,7 +762,7 @@ ship_movement_costs {
     # You need to provide exactly 5 values { A, B, C, D, E }. The equation used is A + B * mass + C * distance + D * ln( mass ) * exp( distance / E )
     # Result is rounded up to an integer. Use 0 to ignore that part of the equation.
     D:hyperspace_moving_max_jump_distance <
-        500000.0
+        1000000.0
         0.5
         0.0
         0.0
@@ -982,7 +982,7 @@ ship_movement_costs {
     # You need to provide exactly 5 values { A, B, C, D, E }. The equation used is A + B * mass + C * distance + D * ln( mass ) * exp( distance / E )
     # Result is rounded up to an integer. Use 0 to ignore that part of the equation.
     D:space_moving_max_jump_distance <
-        100.0
+        50000.0
         0.1
         0.0
         0.0
