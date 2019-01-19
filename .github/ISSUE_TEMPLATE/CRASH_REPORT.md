@@ -1,6 +1,6 @@
 ---
 name: Crash report
-about: Create a report to help us improve
+about: Create a report to help us get rid of those pesky crash bugs
 title: ''
 labels: crash
 assignees: ''
