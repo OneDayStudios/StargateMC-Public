@@ -18,8 +18,13 @@ Steps to reproduce the crash:
 If applicable, add screenshots to help explain your problem.
 
 **Versions (please complete the following information):**
- - Client Pack Version: 
- - Link to the crash report for your client on pastebin.com:
+ - Client Pack Version:
+
+**Crashes**
+- Does this crash your client?:
+- If yes, please upload a crash report to pastebin.com and link it here: 
+- Does this crash the server?:
+- Approximate date/time of the last server crash, including time zone reference:
 
 **Additional context**
 Add any other context about the problem here.
