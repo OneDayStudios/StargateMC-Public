@@ -26,12 +26,6 @@ If applicable, add screenshots to help explain your problem.
  - Client Version:
  - Additional mods you have installed in your client:
 
-**Crashes**
-- Does this crash your client?:
-- If yes, please upload a crash report to pastebin.com and link it here: 
-- Does this crash the server?:
-- Approximate date/time of the last server crash, including time zone reference:
-
 **Additional context**
 Add any other context about the problem here.
 Add a link to a [gist](https://gist.github.com/) of any errors.
