@@ -7,7 +7,11 @@ assignees: ''
 
 ---
 **Name of the mod**:
+
 **Mod Version Recomended**:
+
+**Link to mod page:**
+
 **Items this mod contains that allow for cross wireless communication or item/entity/fluid/block transfer:**
 
 **Reason to add this mod:**
