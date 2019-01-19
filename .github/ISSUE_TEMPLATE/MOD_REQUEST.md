@@ -23,4 +23,5 @@ Add a clear and convincing reason to add this mod and justify how it will make t
 Add a link to pastebin.com that references the configuration you recommend using with the mod.
 
 **Additional context**
+
 Add any other context or screenshots about the feature request here.
