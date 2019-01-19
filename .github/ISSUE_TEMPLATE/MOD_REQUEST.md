@@ -10,7 +10,7 @@ assignees: ''
 **Mod Version Recomended**:
 **Items this mod contains that allow for cross wireless communication or item/entity/fluid/block transfer:**
 
-**Reason to add this mod**:**
+**Reason to add this mod:**
 
 Add a clear and convincing reason to add this mod and justify how it will make the pack better overall.
 
